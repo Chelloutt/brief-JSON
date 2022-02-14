@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "name": "GUCCI",
+    "image": "https://dfmp4drnxjqvy.cloudfront.net/product_images/GUCCI%20GG0737O-003/GUCCI%20GG0737O-003%20(1).JPG",
+    "reference": "RX5001",
+    "color": "Black",
+    "brand": "GUCCI",
+    "gender": "male",
+    "price": "1200 DH",
+    "stock": ["casablanca, tanger, fes, oujda, tetouan"],
+    "provider":{
+      "social": "MarocExpress",
+      "address":"rue mohamed v, tanger"
+    }
+  }
+  ,
+  {
+    "id": "2",
+    "name": "GUCCI",
+    "image": "https://dfmp4drnxjqvy.cloudfront.net/product_images/GUCCI%20GG0937O-002/GUCCI%20GG0937O-002%20(1).JPG",
+    "reference": "RX5001",
+    "color": "brown",
+    "brand": "GUCCI",
+    "gender": "male",
+    "price": "1799 DH",
+    "stock": ["casablanca, tanger, fes, oujda, tetouan"],
+    "provider":{
+      "social": "MarocExpress",
+      "address":"rue mohamed v, tanger"
+    }
+  }
+  ,
+  {
+    "id": "3",
+    "name": "FENDI",
+    "image": "https://cdn3.optica-optima.com/169402-large_default/michael-kors-santa-clara-mk4067u-3015.jpg",
+    "reference": "66BD11",
+    "color": "transparent",
+    "brand": "FENDI",
+    "gender": "famale",
+    "price": "3299 DH",
+    "stock": ["casablanca, tanger, rabat"],
+    "provider":{
+      "social": "MarocExpress",
+      "address":"rue mohamed v, tanger"
+    }
+  }
+  ,
+  {
+    "id": "4",
+    "name": "Ray-Ban",
+    "image": "https://dfmp4drnxjqvy.cloudfront.net/product_images/Ray%20Ban%20RB%205360%205713/Ray%20Ban%20RB%205360%205713%20(1).JPG",
+    "reference": "66BD12",
+    "color": "Havana",
+    "brand": "Ray-Ban",
+    "gender": "Famale",
+    "price": "3000 DH",
+    "stock": ["casablanca, tanger, rabat"],
+    "provider":{
+      "social": "MarocExpress",
+      "address":"rue mohamed v, tanger"
+    }
+  }
+  ,
+  {
+    "id": "5",
+    "name": "Carrera",
+    "image": "https://rx-safety.com/wp-content/uploads/2019/07/Rico-Matte.jpg",
+    "reference": "CR7032",
+    "color": "Black",
+    "brand": "Carrera",
+    "gender": "male",
+    "price": "2200 DH",
+    "stock": ["casablanca, tanger, fes, oujda, tetouan"],
+    "provider":{
+      "social": "MarocExpress",
+      "address":"rue mohamed v, tanger"
+    }
+  }
+  ,
+  {
+    "id": "6",
+   "name": "Mont Blank",
+    "image": "https://dfmp4drnxjqvy.cloudfront.net/product_images/Mont%20Blanc%20MB%20671%20005/Mont%20Blanc%20MB%20671%20005%20(1).JPG",
+    "reference": "MB3000",
+    "color": "Black",
+    "brand": "Mont Blank",
+    "gender": "Male",
+    "price": "1399 DH",
+    "stock": ["casablanca, tanger, fes, oujda, tetouan"],
+    "provider":{
+      "social": "MarocExpress",
+      "address":"rue mohamed v, tanger"
+    }
+  }
+  ,
+  {
+    "id": "7",
+    "name": "TOMMY HILFIGER",
+    "image": "https://i.pinimg.com/originals/22/b4/18/22b41857eba0d456a7fe0888f4848ec7.jpg",
+    "reference": "TH",
+    "color": "Maroon/Silver",
+    "brand": "TOMMY HILFIGER",
+    "gender": "Famale",
+    "price": "1999 DH",
+    "stock": ["casablanca, tanger, fes, oujda, tetouan"],
+    "provider":{
+      "social": "MarocExpress",
+      "address":"rue mohamed v, tanger"
+    }
+  }
+    ,
+  {
+    "id": "8",
+    "name": "Dolce & Gabbana",
+    "image": "https://www.modeleyewear.com/image/cache/catalog/Top%20Banana/Top-Banana-Three-Banana-Cerise-C1-Glasses-256x256.jpg",
+    "reference": "DG5046",
+    "color": "Pink",
+    "brand": "Dolce & Gabbana",
+    "gender": "Famele",
+    "price": "3499 DH",
+    "stock": ["casablanca, tanger, fes, oujda, tetouan"],
+    "provider":{
+      "social": "MarocExpress",
+      "address":"rue mohamed v, tanger"
+    }
+  }
+  ,
+  {
+    "id": "9",
+    "name": "MAYBACH THE ARTIST",
+    "image": "https://dfmp4drnxjqvy.cloudfront.net/product_images/MAYBACH%20THE%20ARTIST%20IX%20G-AA-Z25/MAYBACH%20THE%20ARTIST%20IX%20G-AA-Z25%20(1).JPG",
+    "reference": "G-AA-Z25",
+    "color": "Silver",
+    "brand": "MAYBACH",
+    "gender": "Unisex",
+    "price": "13 999 DH",
+    "stock": ["casablanca, rabat"],
+    "provider":{
+      "social": "MarocExpress",
+      "address":"rue mohamed v, tanger"
+    }
+  }
+  ,
+  {
+    "id": "10",
+    "name": "KOMEHACHI",
+    "image": "https://i.pinimg.com/originals/6e/64/c2/6e64c2b0cb467baf5a36e924a97470cd.jpg",
+    "reference": "H023O",
+    "color": "Black",
+    "brand": "KOMEHACHI",
+    "gender": "Unisex",
+    "price": "9780 DH",
+    "stock": ["casablanca, tanger, fes, oujda, tetouan"],
+    "provider":{
+      "social": "MarocExpress",
+      "address":"rue mohamed v, tanger"
+    }
+  }
+  ,
+  {
+    "id": "11",
+    "name": "TED BAKER",
+    "image": "https://boots.scene7.com/is/image/Boots/10235119?id=-Klmv1&fmt=jpg&fit=constrain,1&wid=504&hei=548",
+    "reference": "B-8205",
+    "color": "Gold",
+    "brand": "Ted Baker",
+    "gender": "Unisex",
+    "price": "12 498 DH",
+    "stock": ["casablanca, tanger, fes, oujda, tetouan"],
+    "provider":{
+      "social": "MarocExpress",
+      "address":"rue mohamed v, tanger"
+    }
+  }
+    ,
+  {
+    "id": "12",
+    "name": "Calvin Klein",
+    "image": "https://lavenue.com.br/wp-content/uploads/2019/06/%C3%93culos-de-Grau-Calvin-Klein-Ck-5427-2.jpg",
+    "reference": "CK19304I",
+    "color": "Black",
+    "brand": "Calvin Klein",
+    "gender": "Male",
+    "price": "800 DH",
+    "stock": ["casablanca, tanger, fes, oujda, tetouan"],
+    "provider":{
+      "social": "MarocExpress",
+      "address":"rue mohamed v, tanger"
+    }
+  }
+  ,
+  {
+    "id": "13",
+    "name": "CARTIER",
+    "image": "https://cdn.grandvision.io/binaries/_ht_1601455380232/content/gallery/gb-visionexpress/content-pages/discover/cartier/cartier_info_mb.jpg",
+    "reference": "CT0259O",
+    "color": "Gold",
+    "brand": "CARTIER",
+    "gender": "Unisex",
+    "price": "22 499 DH",
+    "stock": ["casablanca, tanger, fes, oujda, tetouan"],
+    "provider":{
+      "social": "MarocExpress",
+      "address":"rue mohamed v, tanger"
+    }
+  }
+  ,
+  {
+    "id": "14",
+    "name": "VERSACE",
+    "image": "https://s3-eu-west-1.amazonaws.com/images.linnlive.com/8b8d508007ccead3adb02ae48e85ee95/c5c45598-534e-4e77-bc2a-ec20c6b9ee77.jpg",
+    "reference": "1247-1418",
+    "color": "GOLD",
+    "brand": "VERSACE",
+    "gender": "Famale",
+    "price": "4500 DH",
+    "stock": ["casablanca, tanger, fes, oujda, tetouan"],
+    "provider":{
+      "social": "MarocExpress",
+      "address":"rue mohamed v, tanger"
+    }
+  }
+  ,
+  {
+    "id": "15",
+    "name": "BULGARI",
+    "image": "https://i.ebayimg.com/images/g/fpYAAOSwbrRbYyAR/s-l400.jpg",
+    "reference": "4182-B",
+    "color": "Black",
+    "brand": "BVLGARI",
+    "gender": "Famale",
+    "price": "1800 DH",
+    "stock": ["casablanca, tanger, fes, oujda, tetouan"],
+    "provider":{
+      "social": "MarocExpress",
+      "address":"rue mohamed v, tanger"
+    }
+  }
+  
+]

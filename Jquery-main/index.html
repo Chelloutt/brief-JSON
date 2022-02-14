@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Optic</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <style>
+      button {
+        background-color: transparent;
+        border: 0px;
+      }
+      button:hover{
+        background-color: rgba(255, 255, 255, 0.418);
+      }
+    </style>
+</head>
+<body style="background-image: url(bg.jpg);">
+  <div id="test">
+    
+  </div>
+  <nav style="display: flex; justify-content: center; background-color: #53585a;">
+    <h1 class="navbar-brand">OPTIC</h1>
+  </nav>
+  <header class="navbar navbar-light bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand"></a>
+        <form class="d-flex input-group w-auto">
+          <input
+            type="search"
+            class="form-control rounded"
+            placeholder="Search"
+            aria-label="Search"
+            aria-describedby="search-addon"
+            id="search"
+          />
+        </form>
+      </div>
+    </header>
+    <main class="col-12">
+        <div class="">
+
+        </div>
+        <table class="table table-striped table-hover col-7" id="table">
+            <thead>
+                <th><button onclick="sort('id', 'desc')"><span>▼</span></button> # <button onclick="sort('id', 'asc')"><span>▲</span></button></th>
+
+                <th>Photo</th>
+
+                <th><button onclick="sort('name', 'desc')"><span>▼</span></button> Name <button onclick="sort('name', 'asc')"><span>▲</span></button></th>
+
+                <th>Reference</th>
+
+                <th>Color</th>
+
+                <th>Brand</th>
+
+                <th>Gender</th>
+
+                <th><button onclick="sort('price', 'desc')"><span>▼</span></button> Price <button onclick="sort('price', 'asc')"><span>▲</span></button></th>
+
+                <th>Available</th>
+
+                <th>Provider</th>
+            </thead>
+            <tbody id="tbody">
+
+            </tbody>
+        </table>
+    </main>
+
+<!-- ربط السكريبت -->
+    <script src="script.js"></script>
+</body>
+</html>
+<img src="">
